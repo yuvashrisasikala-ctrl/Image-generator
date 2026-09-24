@@ -1,12 +1,12 @@
-# 🖼️ AI Image Generator
+AI Image Generator
 
-## 📌 Project Overview
+ Project Overview
 
-The **AI Image Generator** is a web-based application that generates images based on user-provided text prompts. Users can enter a description of the image they want, and the application generates a corresponding AI-based image.
+The AI Image Generator is a web-based application that generates images based on user-provided text prompts. Users can enter a description of the image they want, and the application generates a corresponding AI-based image.
 
-This project demonstrates how **Artificial Intelligence and Generative AI** can be used to create images from natural language descriptions.
+This project demonstrates how Artificial Intelligence and Generative AI can be used to create images from natural language descriptions.
 
-## 🎯 Objectives
+ Objectives
 
 * Generate images from text prompts.
 * Provide a simple and user-friendly interface.
@@ -14,15 +14,15 @@ This project demonstrates how **Artificial Intelligence and Generative AI** can 
 * Understand how text prompts are converted into AI-generated images.
 * Create a practical AI-based application using Python.
 
-## ✨ Features
+Features
 
-* 📝 Enter a text prompt.
-* 🤖 Generate an AI image from the prompt.
-* 🖼️ Display the generated image.
-* 🎨 Generate different types of images using different prompts.
-* 💻 Simple and easy-to-use interface.
+*  Enter a text prompt.
+*  Generate an AI image from the prompt.
+*  Display the generated image.
+*  Generate different types of images using different prompts.
+*  Simple and easy-to-use interface.
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 * **Python**
 * **Streamlit**
@@ -30,7 +30,7 @@ This project demonstrates how **Artificial Intelligence and Generative AI** can 
 * **Git & GitHub**
 * **VS Code**
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 AI-Image-Generator/
@@ -41,7 +41,7 @@ AI-Image-Generator/
 └── generated_images/
 ```
 
-## ⚙️ How It Works
+## How It Works
 
 1. User enters a text description.
 2. The application processes the prompt.
@@ -50,7 +50,7 @@ AI-Image-Generator/
 5. The generated image is displayed to the user.
 
 
-## 💡 Example Prompt
+## Example Prompt
 
 ```text
 A college girl sitting at a study table reading a book,
@@ -60,7 +60,7 @@ realistic style.
 
 
 
-## 🌟 Applications
+##  Applications
 
 * Creative image generation
 * Education and learning
@@ -69,7 +69,7 @@ realistic style.
 * Social media content
 * Prototyping and visualization
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add multiple image generation options.
 * Add image download functionality.
@@ -78,7 +78,7 @@ realistic style.
 * Add negative prompt support.
 * Improve the user interface.
 
-## 📝 Conclusion
+##  Conclusion
 
 The **AI Image Generator** demonstrates the practical application of Generative AI for creating images from natural language prompts. The project provides a simple way to understand how AI-powered image generation works and how it can be integrated into a web application.
 
